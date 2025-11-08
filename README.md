@@ -9,3 +9,7 @@ En este sprint aprendimos los conceptos basicos del lenguaje de programacion de 
 - Tuplas
 - f-strings
 
+
+## sprint 2: python basico | continuacion 
+
+......
